@@ -1,0 +1,55 @@
+body{
+			background-color:  #e6fff5;
+}
+		
+.header{
+	background-color:  black;
+}
+		
+h1{
+	font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+	color: white;
+	width:  90%;
+	margin:  auto;
+	padding:  10px;
+}
+
+.bi-emoji-smile{
+	color:  #00bfff;
+}
+
+i, .bi-code-slash{
+	padding-right:  10px;
+}
+
+.container-fluid{
+	margin: 0;
+	padding: 0;
+}
+
+.container-fluid{
+	width:  90%;
+	margin:  auto;
+	margin-top: 30px;
+	background-color: white;
+	padding: 30px 10px;
+	border-radius: 10px;
+}
+
+.row{
+	margin: 0;
+	padding: 0;
+}
+
+.row{
+	width: 90%;
+	margin: auto;
+	margin-top: 20px;
+	padding: 30px 10px;
+	border-radius: 10px;
+	background-color: white;
+}
+
+.row > div{
+	padding-bottom: 10px;
+}
